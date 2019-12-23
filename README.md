@@ -2,7 +2,7 @@
 Complete greek letters.
 
 # Install
-[dein.vim](https://github.com/Shougo/dein.vim)
+Using [dein.vim](https://github.com/Shougo/dein.vim)
 
 ```toml
 [[plugins]]
